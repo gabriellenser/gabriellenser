@@ -7,7 +7,7 @@ Country: Brazil
 
 -Computer Science student
 
--Engaged about data analysis and machine learning
+-Deeply interested in data analysis and machine learning
 
 -Learning data preprocessing, processing, and post-processing (KDD)
 
