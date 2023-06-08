@@ -3,14 +3,14 @@ Name: Gabriel Lenser
 
 Age: 19
 
-Country: Brazil.
+Country: Brazil
 
--Computer Science student.
+-Computer Science student
 
--Passionate about data analysis and machine learning.
+-Passionate about data analysis and machine learning
 
--Learning data preprocessing, processing, and post-processing (KDD).
+-Learning data preprocessing, processing, and post-processing (KDD)
 
--Exploring machine learning algorithms and statistical models.
+-Exploring machine learning algorithms and statistical models
 
 
