@@ -5,10 +5,11 @@
 
 ## 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação
-- 🌍 Brasil
-- 🎂 21 anos
-- 📊 Desenvolvendo habilidades em modelagem preditiva e análise estatística
-- 🧠 Investindo no aprendizado de métodos analíticos
+- 🌍 Localizado no Brasil | 21 anos
+- 📊 Desenvolvendo habilidades práticas em modelagem preditiva, análise estatística e visualização de dados
+- 📘 Tenho grande interesse por CRISP-DM, inferência estatística, estatística preditiva e análise de correlação
+- 🧠 Focado no aprendizado contínuo de métodos analíticos, machine learning e práticas em ciência de dados
+
 
 ## 💻 Habilidades Técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
