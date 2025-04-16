@@ -33,8 +33,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellenser&layout=compact&theme=radical)
 
-## 🔭 Projetos em Destaque
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellenser&repo=spam-classifier&theme=radical)](https://github.com/gabriellenser/spam-classifier)
 
 
