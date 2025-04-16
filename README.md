@@ -6,9 +6,9 @@
 ## 🚀 Sobre mim
 - 🎓 Estudante de Ciência da Computação
 - 🌍 Brasil
-- 🎂 20 anos
-- 📊 Apaixonado por análise de dados e machine learning
-- 🧠 Sempre em busca de novos conhecimentos
+- 🎂 21 anos
+- 📊 Desenvolvendo habilidades em modelagem preditiva e análise estatística
+- 🧠 Investindo no aprendizado de métodos analíticos
 
 ## 💻 Habilidades Técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,15 +31,10 @@
 
 ## 📈 GitHub Stats
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellenser&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellenser&layout=compact&theme=radical)
 
 ## 🔭 Projetos em Destaque
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellenser&repo=spam-classifier&theme=radical)](https://github.com/gabriellenser/spam-classifier)
 
-<!-- Adicione mais projetos conforme você for desenvolvendo -->
 
-
-⭐️ De [gabriellenser](https://github.com/gabriellenser)
