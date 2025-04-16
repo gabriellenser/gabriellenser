@@ -1,18 +1,45 @@
+# 👨‍💻 Gabriel Lenser
 
-Name: Gabriel Lenser
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellenser/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-Age: 20
+## 🚀 Sobre mim
+- 🎓 Estudante de Ciência da Computação
+- 🌍 Brasil
+- 🎂 20 anos
+- 📊 Apaixonado por análise de dados e machine learning
+- 🧠 Sempre em busca de novos conhecimentos
 
-Country: Brazil
+## 💻 Habilidades Técnicas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
--Computer Science student
+## 📚 Áreas de Interesse
+- 🔍 Processo de KDD (Knowledge Discovery in Databases)
+  - Pré-processamento de dados
+  - Processamento e análise
+  - Pós-processamento
 
--Deeply interested in data analytics and machine learning
+- 🤖 Machine Learning
+  - Algoritmos de classificação e predição
+  - Modelos estatísticos
+  - Redes Neurais
 
--I'm into learning new stuff, including Excel, SQL and Power BI
+## 📈 GitHub Stats
 
--Learning data preprocessing, processing, and post-processing (KDD)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriellenser&show_icons=true&theme=radical)
 
--Exploring machine learning algorithms and statistical models
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellenser&layout=compact&theme=radical)
+
+## 🔭 Projetos em Destaque
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabriellenser&repo=spam-classifier&theme=radical)](https://github.com/gabriellenser/spam-classifier)
+
+<!-- Adicione mais projetos conforme você for desenvolvendo -->
 
 
+⭐️ De [gabriellenser](https://github.com/gabriellenser)
